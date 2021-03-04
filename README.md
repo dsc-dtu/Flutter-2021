@@ -15,6 +15,10 @@ Madavendra Pratap Singh -> [https://github.com/mps01](#Link)
 
 Kshitiz Goel       ->      [https://github.com/KshitizGoel](#Link). 
 
+DSC PPT Link:  
+
+[https://docs.google.com/presentation/d/1tvGnS--3LMIrQypDqo-eeoEy6N5fuSzWEzlCJff_JUA/edit#slide=id.gc6f73a04f_0_0](#Link)
+
 Here is a sneak peak:  
   
 <img src="https://user-images.githubusercontent.com/67114557/109979470-f05f3c80-7d24-11eb-9afb-6d34c8eff62f.jpeg" width="150">
