@@ -7,7 +7,9 @@ For more examples of Flutter, You can bump into the GitHub accounts of our team.
   
 The Flutter Team :  
 Haresh Nayak            [https://github.com/hareshnayak](#Link). 
-Madavendra Pratap Singh [https://github.com/mps01](#Link). 
+
+Madavendra Pratap Singh [https://github.com/mps01](#Link)   
+
 Kshitiz Goel            [https://github.com/KshitizGoel](#Link). 
 
 Here is a sneak peak:  
