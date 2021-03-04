@@ -15,7 +15,7 @@ Madavendra Pratap Singh -> [https://github.com/mps01](#Link)
 
 Kshitiz Goel       ->      [https://github.com/KshitizGoel](#Link). 
 
-DSC PPT Link:  
+DSC Flutter PPT Link:  
 
 [https://docs.google.com/presentation/d/1tvGnS--3LMIrQypDqo-eeoEy6N5fuSzWEzlCJff_JUA/edit#slide=id.gc6f73a04f_0_0](#Link)
 
