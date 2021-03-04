@@ -1,5 +1,8 @@
 # flutter_app_dsc
 
+<img src="https://avatars.githubusercontent.com/u/48676482?s=200&v=4" width="150">. 
+
+
 Greetings!  
 
 
