@@ -6,11 +6,12 @@ This is  a prototype Flutter app which is to be presented for the GTech Week 202
 For more examples of Flutter, You can bump into the GitHub accounts of our team. 
   
 The Flutter Team :  
-Haresh Nayak            [https://github.com/hareshnayak](#Link). 
 
-Madavendra Pratap Singh [https://github.com/mps01](#Link)   
+Haresh Nayak       ->     [https://github.com/hareshnayak](#Link). 
 
-Kshitiz Goel            [https://github.com/KshitizGoel](#Link). 
+Madavendra Pratap Singh -> [https://github.com/mps01](#Link)   
+
+Kshitiz Goel       ->      [https://github.com/KshitizGoel](#Link). 
 
 Here is a sneak peak:  
   
