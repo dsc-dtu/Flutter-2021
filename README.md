@@ -14,7 +14,7 @@ The Flutter Team :
 
 **Haresh Nayak**      --    [GitHub](https://github.com/hareshnayak) | [LinkedIn](https://linkedin.com/in/hareshnayak08) | [Twitter](https://twitter.com/HareshNayak19) 
 
-**Madavendra Pratap Singh** -- [GitHub](https://github.com/mps01) | [LinkedIn](https://www.linkedin.com/in/madhavendra-p-singh-12a208193/) | [Twitter]()   
+**Madavendra Pratap Singh** -- [GitHub](https://github.com/mps01) | [LinkedIn](https://www.linkedin.com/in/madhavendra-p-singh-12a208193/) 
 
 **Kshitiz Goel**       --     [KshitizGoel](https://github.com/KshitizGoel) | [LinkedIn](https://www.linkedin.com/in/kshitiz-goel-29a76519a/)
 
