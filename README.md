@@ -1,16 +1,31 @@
 # flutter_app_dsc
 
-A new Flutter application.
+<img src="https://avatars.githubusercontent.com/u/48676482?s=200&v=4" width="150">. 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Greetings!  
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+This is  a prototype Flutter app which is to be presented for the GTech Week 2021 by Developer Student Club Of Delhi Technological University.  
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+For more examples of Flutter, You can bump into the GitHub accounts of our team. 
+  
+The Flutter Team :  
+
+Haresh Nayak       ->     [https://github.com/hareshnayak](#Link). 
+
+Madavendra Pratap Singh -> [https://github.com/mps01](#Link)   
+
+Kshitiz Goel       ->      [https://github.com/KshitizGoel](#Link). 
+
+DSC Flutter PPT Link:  
+
+[https://tinyurl.com/yucvju9c](#Link)
+
+Here is a sneak peak:  
+  
+<img src="https://user-images.githubusercontent.com/67114557/109979470-f05f3c80-7d24-11eb-9afb-6d34c8eff62f.jpeg" width="150">
+<img src="https://user-images.githubusercontent.com/67114557/109979522-ff45ef00-7d24-11eb-8018-9a190284545b.jpeg" width="150">
+
+
+
