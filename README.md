@@ -20,7 +20,7 @@ Kshitiz Goel       ->      [https://github.com/KshitizGoel](#Link).
 
 DSC Flutter PPT Link:  
 
-[https://bit.ly/38e3OHR](#Link)
+[https://tinyurl.com/yucvju9c](#Link)
 
 Here is a sneak peak:  
   
