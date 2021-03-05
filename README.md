@@ -1,6 +1,6 @@
 # flutter_app_dsc
 
-<img src="https://avatars.githubusercontent.com/u/48676482?s=200&v=4" width="150">. 
+<img src="https://avatars.githubusercontent.com/u/48676482?s=200&v=4" width="150">
 
 
 Greetings!  
@@ -12,11 +12,11 @@ For more examples of Flutter, You can bump into the GitHub accounts of our team.
   
 The Flutter Team :  
 
-Haresh Nayak       ->     [https://github.com/hareshnayak](#Link). 
+Haresh Nayak       ->     [https://github.com/hareshnayak](#Link)
 
 Madavendra Pratap Singh -> [https://github.com/mps01](#Link)   
 
-Kshitiz Goel       ->      [https://github.com/KshitizGoel](#Link). 
+Kshitiz Goel       ->      [https://github.com/KshitizGoel](#Link)
 
 DSC Flutter PPT Link:  
 
