@@ -44,105 +44,103 @@ class _ProfilePageState extends State<ProfilePage> {
                       ),
                     ),
                     width: MediaQuery.of(context).size.width - 20,
-                    child: Expanded(
-                      flex: 4,
-                      child: Column(
-                        children: <Widget>[
-                          SizedBox(
-                            height: 70,
+                    child: Column(
+                      children: <Widget>[
+                        SizedBox(
+                          height: 70,
+                        ),
+                        Container(
+                          padding: EdgeInsets.symmetric(
+                            horizontal: 20,
+                            vertical: 5,
                           ),
-                          Container(
-                            padding: EdgeInsets.symmetric(
-                              horizontal: 20,
-                              vertical: 5,
+                          margin: EdgeInsets.symmetric(
+                              horizontal: 30, vertical: 10),
+                          decoration: BoxDecoration(
+                            borderRadius: BorderRadius.all(
+                              Radius.circular(10),
                             ),
-                            margin: EdgeInsets.symmetric(
-                                horizontal: 30, vertical: 10),
-                            decoration: BoxDecoration(
+                            border: Border.all(color: Colors.red, width: 2),
+                          ),
+                          child: TextField(
+                            decoration: InputDecoration(
+                                hintText: 'Enter Name', labelText: 'Name'),
+                          ),
+                        ),
+                        Container(
+                          padding: EdgeInsets.symmetric(
+                            horizontal: 20,
+                            vertical: 5,
+                          ),
+                          margin: EdgeInsets.symmetric(
+                              horizontal: 30, vertical: 10),
+                          decoration: BoxDecoration(
+                            borderRadius: BorderRadius.all(
+                              Radius.circular(10),
+                            ),
+                            border: Border.all(color: Colors.green, width: 2),
+                          ),
+                          child: TextField(
+                            keyboardType: TextInputType.emailAddress,
+                            decoration: InputDecoration(
+                                hintText: 'Enter Email', labelText: 'Email'),
+                          ),
+                        ),
+                        Container(
+                          padding: EdgeInsets.symmetric(
+                            horizontal: 20,
+                            vertical: 5,
+                          ),
+                          margin: EdgeInsets.symmetric(
+                              horizontal: 30, vertical: 10),
+                          decoration: BoxDecoration(
+                            borderRadius: BorderRadius.all(
+                              Radius.circular(10),
+                            ),
+                            border: Border.all(color: Colors.blue, width: 2),
+                          ),
+                          child: TextField(
+                            decoration: InputDecoration(
+                                hintText: 'Enter College',
+                                labelText: 'College'),
+                          ),
+                        ),
+                        Container(
+                          margin: EdgeInsets.symmetric(vertical: 30),
+                          padding: EdgeInsets.symmetric(
+                            horizontal: 20,
+                            vertical: 5,
+                          ),
+                          width: MediaQuery.of(context).size.width - 80,
+                          decoration: BoxDecoration(
                               borderRadius: BorderRadius.all(
                                 Radius.circular(10),
                               ),
-                              border: Border.all(color: Colors.red, width: 2),
-                            ),
-                            child: TextField(
-                              decoration: InputDecoration(
-                                  hintText: 'Enter Name', labelText: 'Name'),
-                            ),
-                          ),
-                          Container(
-                            padding: EdgeInsets.symmetric(
-                              horizontal: 20,
-                              vertical: 5,
-                            ),
-                            margin: EdgeInsets.symmetric(
-                                horizontal: 30, vertical: 10),
-                            decoration: BoxDecoration(
-                              borderRadius: BorderRadius.all(
-                                Radius.circular(10),
-                              ),
-                              border: Border.all(color: Colors.green, width: 2),
-                            ),
-                            child: TextField(
-                              decoration: InputDecoration(
-                                  hintText: 'Enter Email', labelText: 'Email'),
-                            ),
-                          ),
-                          Container(
-                            padding: EdgeInsets.symmetric(
-                              horizontal: 20,
-                              vertical: 5,
-                            ),
-                            margin: EdgeInsets.symmetric(
-                                horizontal: 30, vertical: 10),
-                            decoration: BoxDecoration(
-                              borderRadius: BorderRadius.all(
-                                Radius.circular(10),
-                              ),
-                              border: Border.all(color: Colors.blue, width: 2),
-                            ),
-                            child: TextField(
-                              decoration: InputDecoration(
-                                  hintText: 'Enter College',
-                                  labelText: 'College'),
-                            ),
-                          ),
-                          Container(
-                            margin: EdgeInsets.symmetric(vertical: 30),
-                            padding: EdgeInsets.symmetric(
-                              horizontal: 20,
-                              vertical: 5,
-                            ),
-                            width: MediaQuery.of(context).size.width - 80,
-                            decoration: BoxDecoration(
-                                borderRadius: BorderRadius.all(
-                                  Radius.circular(10),
+                              color: Colors.green),
+                          child: FlatButton(
+                            padding: EdgeInsets.all(0),
+                            onPressed: () {
+                              Navigator.push(
+                                context,
+                                MaterialPageRoute(
+                                  builder: (context) => HomePage(),
                                 ),
-                                color: Colors.green),
-                            child: FlatButton(
-                              padding: EdgeInsets.all(0),
-                              onPressed: () {
-                                Navigator.push(
-                                  context,
-                                  MaterialPageRoute(
-                                    builder: (context) => HomePage(),
-                                  ),
-                                );
-                              },
-                              child: Center(
-                                child: Text(
-                                  'Submit',
-                                  style: GoogleFonts.comfortaa(
-                                    textStyle: TextStyle(
-                                        fontSize: 20,
-                                        fontWeight: FontWeight.bold,
-                                        color: Colors.white),
-                                  ),
+                              );
+                            },
+                            child: Center(
+                              child: Text(
+                                'Submit',
+                                style: GoogleFonts.comfortaa(
+                                  textStyle: TextStyle(
+                                      fontSize: 20,
+                                      fontWeight: FontWeight.bold,
+                                      color: Colors.white),
                                 ),
                               ),
                             ),
                           ),
-                        ],
-                      ),
+                        ),
+                      ],
                     ),
                   ),
                 ),
