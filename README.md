@@ -6,21 +6,21 @@
 Greetings!  
 
 
-This is  a prototype Flutter app which is to be presented for the GTech Week 2021 by Developer Student Club Of Delhi Technological University.  
+This is a prototype Flutter app which is to be presented for the GTech Week 2021 by Developer Student Club Of Delhi Technological University.  
 
 For more examples of Flutter, You can bump into the GitHub accounts of our team. 
   
 The Flutter Team :  
 
-Haresh Nayak       ->     [https://github.com/hareshnayak](#Link)
+Haresh Nayak       ->     [GitHub](https://github.com/hareshnayak) | [LinkedIn](https://linkedin.com/in/hareshnayak08) | [Twitter](https://twitter.com/HareshNayak19) 
 
-Madavendra Pratap Singh -> [https://github.com/mps01](#Link)   
+Madavendra Pratap Singh -> [GitHub](https://github.com/mps01) | [LinkedIn](https://www.linkedin.com/in/madhavendra-p-singh-12a208193/) | [Twitter]()   
 
-Kshitiz Goel       ->      [https://github.com/KshitizGoel](#Link)
+Kshitiz Goel       ->      [KshitizGoel](https://github.com/KshitizGoel) | [LinkedIn](https://www.linkedin.com/in/kshitiz-goel-29a76519a/)
 
 DSC Flutter PPT Link:  
 
-[https://tinyurl.com/yucvju9c](#Link)
+[https://tinyurl.com/yucvju9c](https://tinyurl.com/yucvju9c)
 
 Here is a sneak peak:  
   
